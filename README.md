@@ -1,2 +1,1 @@
-# Stack-Html-Element
-Stack HTML element with CSS
+You have probably seen many places where there is an HTML component where you can see several profile images that are stacked and when you hover over one of them it animates and displays some information. Presented here is a stack of 5 well-known celebrities. When hovering over them, a small animation occurs and the name of the corresponding celebrity is displayed. 
